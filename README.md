@@ -1,19 +1,6 @@
 <div align="center">
 
-### Hi there, I'm [Hayden-Droid!]<a href="https://discord.gg/CkdjnCR"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
-
-[![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirayXS&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayXS&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB" alt="MirayXS's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MirayXS" />
-
-<hr>
-
-<img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
-<!--<img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />-->
-  
-  <hr>
+### Hi there, I'm [Hayden-Droid!]
 
 ### **Languages and Tools**  
 
@@ -52,17 +39,17 @@
 
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/d/3/a/d3aa9f22cdd3d55ec9e752e695ea63b197a05d0f.png">
 
-### https://devforum.roblox.com/u/mirayyh/summary
+### https://devforum.roblox.com/u/haydenIIhi/summary
 
 <hr>
 
-## MAIN DISCORD ACCOUNT
+<!--## MAIN DISCORD ACCOUNT
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
-![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)
-
+![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)-->
+<!--
 ![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
 ![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
-
+-->
 <!-- ## ALTERNATIVE DISCORD ACCOUNT
 ![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/772156814393212928?simple=true&logo=discord&logoColor=white&color=43B581)
 ![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/772156814393212928?vscode=false&logo=nintendo-switch&color=8A96E9) -->
